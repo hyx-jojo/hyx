@@ -1,12 +1,18 @@
-## 第3题
+## 第4题
 
-**储蓄系统**
-![储蓄系统](https://github.com/hyx-jojo/hyx/raw/master/%E5%82%A8%E8%93%84%E7%B3%BB%E7%BB%9F.png)
+**数据流图**
+![数据流图](https://github.com/hyx-jojo/hyx/raw/master/%E6%95%B0%E6%8D%AE%E6%B5%81%E5%9B%BE.png)
 
-**机票预订系统**
-![机票预订系统](https://github.com/hyx-jojo/hyx/raw/master/%E6%9C%BA%E7%A5%A8%E9%A2%84%E8%AE%A2%E7%B3%BB%E7%BB%9F.png)
+**需求说明**
+1.功能需求：可以输入调资的标准，输入教师档案，经调资给出新的教师档案，需要存储档案
+2.性能需求：软件的响应时间应小于0.5s
+3.可靠性和可用性需求：不能出现判断错误的情况
+4.故障处理需求：出现错误时，应给予警告或提示
 
-**患者监护系统**
-![患者监护系统](https://github.com/hyx-jojo/hyx/raw/master/%E6%82%A3%E8%80%85%E7%9B%91%E6%8A%A4%E7%B3%BB%E7%BB%9F.png)
+**HIPO图**
+1
+![HIPO(1)](https://github.com/hyx-jojo/hyx/raw/master/HIPO1.png)
+2
+![HIPO(2)](https://github.com/hyx-jojo/hyx/raw/master/HIPO2.png)
 
 
